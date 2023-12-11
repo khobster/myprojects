@@ -16,10 +16,6 @@
    "answer": "Sunrise: A Song of Two Humans"
  },
  {
-   "question": "Stagnation: A Comedy of the City",
-   "answer": "Chang: A Drama of the Wilderness"
- },
- {
    "question": "The Individual",
    "answer": "The Crowd"
  },
@@ -28,7 +24,7 @@
    "answer": "The Last Command"
  },
  {
-   "question": "The Path of No Flesh",
+   "question": "The Path of No Bones",
    "answer": "The Way of All Flesh"
  },
  {
@@ -46,10 +42,6 @@
  {
    "question": "A Ship Goes Out",
    "answer": "A Ship Comes In"
- },
- {
-   "question": "Joyful Jones",
-   "answer": "Sadie Thompson"
  },
  {
    "question": "Sluggish",
@@ -70,10 +62,6 @@
  {
    "question": "The Classical Muter",
    "answer": "The Jazz Singer"
- },
- {
-   "question": "The Public Death of Helen of Troy",
-   "answer": "The Private Life of Helen of Troy"
  },
  {
    "question": "The Angel Sitter",
@@ -128,11 +116,11 @@
    "answer": "Coquette"
  },
  {
-   "question": "Madame Y",
+   "question": "Mister Y",
    "answer": "Madame X"
  },
  {
-   "question": "The Audience",
+   "question": "The Mute",
    "answer": "The Barker"
  },
  {
@@ -144,7 +132,7 @@
    "answer": "The Divine Lady"
  },
  {
-   "question": "Energized Stream",
+   "question": "Energized Desert",
    "answer": "Weary River"
  },
  {
@@ -156,20 +144,12 @@
    "answer": "The Cop"
  },
  {
-   "question": "The First of Mr. Cheyney",
-   "answer": "The Last of Mrs. Cheyney"
- },
- {
    "question": "The Suedeback",
    "answer": "The Leatherneck"
  },
  {
    "question": "Our Sitting Sons",
    "answer": "Our Dancing Daughters"
- },
- {
-   "question": "Sal of Kuala Lumpur",
-   "answer": "Sal of Singapore"
  },
  {
    "question": "Basement",
@@ -208,19 +188,15 @@
    "answer": "The Big House"
  },
  {
-   "question": "Churchill",
-   "answer": "Disraeli"
- },
- {
    "question": "The Marriagee",
    "answer": "The Divorcee"
  },
  {
-   "question": "The Hate Parade",
+   "question": "The Hate Walk",
    "answer": "The Love Parade"
  },
  {
-   "question": "The Brown Goddess",
+   "question": "The Purple Goddess",
    "answer": "The Green Goddess"
  },
  {
