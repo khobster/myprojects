@@ -564,11 +564,7 @@
    "answer": "A Preferred List"
  },
  {
-   "question": "Krakatoa",
-   "answer": "Krakatoa"
- },
- {
-   "question": "Order",
+   "question": "A Waiter Reciting the Specials",
    "answer": "Menu"
  },
  {
@@ -590,10 +586,6 @@
  {
    "question": "It Happened One Morning",
    "answer": "It Happened One Night"
- },
- {
-   "question": "The Barretts of High Street",
-   "answer": "The Barretts of Wimpole Street"
  },
  {
    "question": "Antony",
@@ -1364,10 +1356,6 @@
    "answer": "Grand Illusion"
  },
  {
-   "question": "Jezabel",
-   "answer": "Jezebel"
- },
- {
    "question": "Oedipus",
    "answer": "Pygmalion"
  },
@@ -1376,16 +1364,8 @@
    "answer": "Test Pilot"
  },
  {
-   "question": "Wilderness",
-   "answer": "Algiers"
- },
- {
    "question": "Devils with Clean Faces",
    "answer": "Angels with Dirty Faces"
- },
- {
-   "question": "Black Banners",
-   "answer": "White Banners"
  },
  {
    "question": "Marie Democracy",
@@ -1416,7 +1396,7 @@
    "answer": "The Great Waltz"
  },
  {
-   "question": "Unblock",
+   "question": "Free Harbor",
    "answer": "Blockade"
  },
  {
@@ -1442,10 +1422,6 @@
  {
    "question": "The Old at Heart",
    "answer": "The Young in Heart"
- },
- {
-   "question": "The Misadventures of Tom Sawyer",
-   "answer": "The Adventures of Tom Sawyer"
  },
  {
    "question": "Careful",
@@ -1476,7 +1452,7 @@
    "answer": "The Big Broadcast of 1938"
  },
  {
-   "question": "Puppet",
+   "question": "Model",
    "answer": "Mannequin"
  },
  {
@@ -1502,10 +1478,6 @@
  {
    "question": "Atlantic Liner",
    "answer": "Pacific Liner"
- },
- {
-   "question": "Boys' School",
-   "answer": "Girls' School"
  },
  {
    "question": "Calm Under Bengal",
@@ -1564,10 +1536,6 @@
    "answer": "Hunky and Spunky"
  },
  {
-   "question": "Spawn of the South",
-   "answer": "Spawn of the North"
- },
- {
    "question": "Here with the Stillness",
    "answer": "Gone with the Wind"
  },
@@ -1592,7 +1560,7 @@
    "answer": "Of Mice and Men"
  },
  {
-   "question": "Backstage",
+   "question": "Horseback",
    "answer": "Stagecoach"
  },
  {
@@ -1640,10 +1608,6 @@
    "answer": "The Great Victor Herbert"
  },
  {
-   "question": "Gunga Dean",
-   "answer": "Gunga Din"
- },
- {
    "question": "Finale: A Hate Story",
    "answer": "Intermezzo: A Love Story"
  },
@@ -1662,10 +1626,6 @@
  {
    "question": "Private Peace",
    "answer": "Captain Fury"
- },
- {
-   "question": "Man of Defeat",
-   "answer": "Man of Conquest"
  },
  {
    "question": "When Yesterday Goes",
